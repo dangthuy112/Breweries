@@ -1,0 +1,12 @@
+TODO
+-interface
+    -header
+    -footer
+    -list
+-create new brewery
+-update existing brewery
+-delete a brewery
+-routes
+
+DONE
+-fetching data from api
